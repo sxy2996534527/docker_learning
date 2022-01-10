@@ -6,3 +6,4 @@
 
 ## k8s容器编排
 1. 安装部署: [流程](https://zhuanlan.zhihu.com/p/97605697), [k8s安装——国内环境](https://zhuanlan.zhihu.com/p/46341911)
+2. [10分钟看懂Docker和K8S](https://zhuanlan.zhihu.com/p/53260098)
