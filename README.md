@@ -8,3 +8,5 @@
 1. 安装部署: [流程](https://zhuanlan.zhihu.com/p/97605697), [k8s安装——国内环境](https://zhuanlan.zhihu.com/p/46341911)
 2. [10分钟看懂Docker和K8S](https://zhuanlan.zhihu.com/p/53260098)
 3. [Kubernetes(K8s) 解决了哪些问题](https://www.zhihu.com/question/329365548)
+4. [容器、容器集群管理平台与Kubernetes技术漫谈
+](https://blog.csdn.net/watermelonbig/article/details/83965399)
